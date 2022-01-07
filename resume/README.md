@@ -1,9 +1,9 @@
+**Qumulo, Inc.**
 
-```
-Qumulo, Inc.
-Seattle, WA
-May 2021 - Current
-```
+**Seattle, WA**
+
+**May 2021 - Current**
+
 **Member of Technical Staff, Software Test Engineer**
   -	Ran manual and automated (CI/CD,python/bash scripts,etc.) test scenarios, then reported (via Jira bugs) and tracked (via Rally) any product defects found
   -	Helped debug and diagnose test failures (looking at logs, repro test failures, adding any findings to the Jira bugs)
@@ -17,11 +17,12 @@ May 2021 - Current
   -	Constantly created/modified/updated documentation via Confluence for our team's purposes
   -	Used version control (mercurial) to track code work using our Kanban board for work tracking
 
-```
-Qumulo, Inc.
-Seattle, WA
-Feb 2019 - May 2021
-```
+**Qumulo, Inc.**
+
+**Seattle, WA**
+
+**Feb 2019 - May 2021**
+
 **Sr. Systems Administrator**
 -	Management of SaaS services (GSuite/Jira/freshservice/Office 365/OneLogin) through our SSO provider(OneLogin)
 -	Management of our cloud based infrastructure (mainly IAM/Compute Resources/Networking) through various cloud providers (AWS/Azure/GCP)
@@ -41,11 +42,12 @@ Feb 2019 - May 2021
 -	Administration of our Mac client infrastructure (Jamf Cloud)
 -	Maintain our labs/datacenters with rack/stack, network cabling/configuration, troubleshooting physical hardware issues, etc.
 
-```
-Starbucks
-Seattle, WA
-May 2018 - Feb 2019
-```
+**Starbucks**
+
+**Seattle, WA**
+
+**May 2018 - Feb 2019**
+
 **Systems Engineer I**
 -	Working on a small team deploying, managing, and automating client devices to the cloud.
 -	Using DevOps practices, assist the team with Continuous Integration/Continuous Development processes to support over 10,000+ stores.
@@ -67,22 +69,24 @@ May 2017 - May 2018
 -	Helped deploy, install, and configure our on-premise Tableau Server.
 -	Maintained and implemented our new VMware environment: vSphere 6.5 (DRS, HA, Host profiles, Storage DRS), vCloud Suite (vRealize Operations 6.5, vRealize Log Insight 4.3, vRealize Automation 7.2, vRealize Business for Cloud 7.2.1)
 
-```
-Nintendo of America Inc.
-Redmond, WA
-Jan. 2016 – May 2017
-```
+**Nintendo of America Inc.**
+
+**Redmond, WA**
+
+**Jan. 2016 – May 2017**
+
 **Systems Engineer**
 -	Took on new roles after merging with the UNIX engineering team: *NIX OSes, hyper-converged systems(Nutanix).
 -	Looked at new initiatives to help the company overall get work done: VDI(Citrix XenApp, VMware Horizon, Microsoft App-V).
 -	Successfully implemented a POC of Citrix technologies(XenApp, XenDesktop, MCS, Director) using a Nutanix platform on the infrastructure.
 -	Began learning/using AGILE methodologies as well as using Jira for project tracking and Confluence for documentation.
 
-```
-Nintendo of America Inc.
-Redmond, WA
-Jan. 2013 – Jan. 2016
-```
+**Nintendo of America Inc.**
+
+**Redmond, WA**
+
+**Jan. 2013 – Jan. 2016**
+
 **Systems Engineer**
 -	Began using Foglight reporting to track, trend, and come up with recommendations on performance issues and growth of our virtualization environment.
 -	Supported 61 5.1 ESXi hosts(1482 VM guests) spread through 9 datacenters within the contiguous United States
@@ -100,11 +104,12 @@ Jan. 2013 – Jan. 2016
 -	Continued maintenance of the virtualization infrastructure using VMware update manager(we haven’t upgraded to 5.5 because we haven’t upgraded NetBackup)
 -	Looked at new virtualization/cloud technologies to improve efficiencies and costs at our organization(OpenStack using Ubuntu’s MAAS and Juju orchestration).
 
-```
-Nintendo Technology Department
-Redmond, WA
-Jan. 2012 – Jan. 2013
-```
+**Nintendo Technology Department**
+
+**Redmond, WA**
+
+**Jan. 2012 – Jan. 2013**
+
 **Systems Engineer**
 -	I was on loan to NTD for one year to assist in anything that they needed. This required a lot of flexibility and outside the box thinking. My roles were wide open(tech support, liaison between NOA and NTD, server admin, etc.). My role was to help NTD in any way possible to get things done in an efficient manner as possible.
 -	Installed and supported SVN(subversion)
@@ -115,11 +120,12 @@ Jan. 2012 – Jan. 2013
 -	Supported and maintained Fedora Linux
 -	Transitioned NTD away from the Apple platform over to Windows(Active Directory authentication) and Linux OS(servers)
 
-```
-Nintendo of America Inc.
-Redmond, WA
-Jan. 2011 – Jan. 2012
-```
+**Nintendo of America Inc.**
+
+**Redmond, WA**
+
+**Jan. 2011 – Jan. 2012**
+
 **Systems Engineer**
 -	Department re-organized the structure and re-assigned titles and roles/responsibilities to each individual. My title changed from Sr. Network Administrator to Systems Engineer. My new roles required expertise in Windows server OS and virtualization technologies(VMware)
 -	Continued role for Window OS, Linux OS, and Mac OS expertise
@@ -128,22 +134,24 @@ Jan. 2011 – Jan. 2012
 -	Installed and supported Nintendo’s fast file transfer service(UDP transfers)
 -	Installed and supported Nintendo’s XSAN(Apple’s san at the desktop)
 
-```
-Nintendo of America, Inc.
-Redmond, WA
-Jul. 2010 – Jan. 2011
-```
+**Nintendo of America, Inc.**
+
+**Redmond, WA**
+
+**Jul. 2010 – Jan. 2011**
+
 **Sr. Network Administrator**
 -	In addition to the roles/responsibilities as the Network Administrator, took on more senior roles(making decisions, attended more meetings, provided training)
 -	Began to support Linux systems
 -	Took on more specialized projects that required outside-the-box thinking(next generation file transfer, game spy in a box, SAN (Storage Area Network) at the desktop, etc.)
 -	Took over the backup role as a team member retired
 
-```
-Nintendo of America, Inc.
-Redmond, WA
-May 2006 – Jul. 2010
-```
+**Nintendo of America, Inc.**
+
+**Redmond, WA**
+
+**May 2006 – Jul. 2010**
+
 **Network Administrator**
 -	Managed over 350 servers on different hardware(Dell, HP, Compaq, Apple, EMC), different operating systems(Microsoft, VMware ESX, Suse Linux Enterprise Server, Mac OS X, Netware, Red Hat Linux) and mostly on VMware ESX(over 80% on VM's).
 -	Personally supported over 50 applications and up to 100 within the team
@@ -161,11 +169,12 @@ May 2006 – Jul. 2010
 -	Always a team player and likes to help the overall company succeed in getting things done.
 -	Always made sure the day-to-day operations were the top priorities in helping the customers get their things done.
 
-```
-WASPC (Washington Association of Sheriff's and Police Chief's)
-Lacey, WA
-Nov. 2005 – May 2006
-```
+**WASPC (Washington Association of Sheriff's and Police Chief's)**
+
+**Lacey, WA**
+
+**Nov. 2005 – May 2006**
+
 **IT Systems Specialist**
 -	Performed daily network administrator duties daily backups, network performance/outages, hardware/software upgrades and installation, virus updates, add/remove user accounts, file permissions to existing or new directories, troubleshooting of network, applications, operating systems, printers, SQL administration, and other technical issues
 -	Researched, implemented, and tested new hardware and software solutions
@@ -179,11 +188,12 @@ Nov. 2005 – May 2006
 -	Obtained grants in excess of $10,000 from Microsoft.
 -	Created multiple proposals for future growth of the organization using performance analysis.
 
-```
-Trinityglass International
-Tacoma, WA
-Jan. 2001 - Nov. 2005
-```
+**Trinityglass International**
+
+**Tacoma, WA**
+
+**Jan. 2001 - Nov. 2005**
+
 **Lead Systems Administrator**	
 -	Performed daily network administrator duties daily backups, network performance/outages, hardware/software upgrades and installation, virus updates, add/remove user accounts, file permissions to existing or new directories, troubleshooting of network, applications, operating systems, printers, and other technical issues
 -	Researched, implemented, and tested new hardware and software solutions. Worked with many vendors on prices, products, and RMA’s.	
@@ -201,11 +211,12 @@ Jan. 2001 - Nov. 2005
 -	Created and maintained a database of computer inventory to successfully track every computer within the organization
 -	Re-organized the file-server from user named folders to department or role assigned folders thereby saving valuable time for users finding out where each folder goes
 
-```
-Seanet Corporation
-Seattle, WA
-Jun. 2000 - Dec. 2000
-```
+**Seanet Corporation**
+
+**Seattle, WA**
+
+**Jun. 2000 - Dec. 2000**
+
 **Computer Consultant**
 -	Consulted with various small businesses around the Puget Sound
 -	Analyzed needs of clients and proposed a solution to their needs
@@ -215,22 +226,24 @@ Jun. 2000 - Dec. 2000
 -	Suggested the idea of starting a consultant division within the company
 -	Serviced many small businesses with a very courteous attitude and thereby giving the company a better image
 
-```
-Seanet Corporation
-Seattle, WA
-Jan. 2000 - May 2000
-```
+**Seanet Corporation**
+
+**Seattle, WA**
+
+**Jan. 2000 - May 2000**
+
 **Technical Support**
 -	Provided technical support with one of the largest privately owned ISP’s around the region helping connectivity issues with dial-up, ISDN, DSL, and Ethernet (within the building). Helped users configure and install various email applications such as outlook express, outlook, Eudora, Netscape, and webmail.
 -	Top 2 people to receive and solve technical issues
 -	Promoted to DSL administrator within three months of starting at the company
 -	Took on extra projects when there was some free time like studying for MCSE exams
 
-```
-University of Washington
-Seattle, WA
-Nov. 1998 - Nov. 1999
-```
+**University of Washington**
+
+**Seattle, WA**
+
+**Nov. 1998 - Nov. 1999**
+
 **Computer Support Analyst**
 -	Oversaw three locations within the campus. Installed/upgraded various Macintosh computers (50+)
 -	Maintained the appleshare file and print server. Supported various office applications such as Microsoft Office and Filemaker
