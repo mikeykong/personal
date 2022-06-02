@@ -1,0 +1,21 @@
+Description
+tmuxp is an easier way (for me) to manage multiple tmux sessions (so I can keep track of my the various tests that are running) by loading a configuration file
+
+Documentation
+tmuxp — tmuxp 1.5.5 documentation
+http://tmuxp.readthedocs.io/en/latest/
+
+Code Snippet (.tmuxp.yaml)
+
+session_name: mkong
+suppress_history: false
+history_limit: 100000
+windows:
+  - window_name: bash
+  - window_name: aws
+  - window_name: azure
+  - window_name: gcp
+  - window_name: node-adds
+Usage
+
+tmuxp load ~/.tmuxp.yaml
