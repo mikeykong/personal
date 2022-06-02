@@ -15,7 +15,6 @@ windows:
   - window_name: aws
   - window_name: azure
   - window_name: gcp
-  - window_name: node-adds
 Usage
 
 tmuxp load ~/.tmuxp.yaml
