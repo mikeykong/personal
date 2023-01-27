@@ -1,3 +1,6 @@
+# 2022-Dec-28: TIL - Wrote my first PowerShell script!
+
+[PowerShell Script to add a user's email address in Active Directory](./2022-12-28.md)
 
 # 2022-Nov-11: TIL - Infrastructure-as-Code using Terraform and Ansible
 
