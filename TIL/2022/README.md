@@ -9,3 +9,7 @@
 # 2022-Jun-01: TIL - how to quickly bring up my favorite linux screen sessions/settings
 
 [tmuxp](./2022-06-01.md)
+
+# 2019-May-01: TIL - how to setup Graylog using Ansible from scratch
+
+[Graylog Ansible Directory](https://github.com/mikeykong/ansible)
