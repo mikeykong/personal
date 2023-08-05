@@ -6,3 +6,4 @@
 
 This was lots of watching, reading, trying, failing, and doing it all over again! Very rewarding when you get those little green checks! :)
 
+[Introduction to GitHub Actions!](./Aug04)
