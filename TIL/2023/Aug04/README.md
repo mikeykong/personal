@@ -28,7 +28,9 @@ An event is a specific activity in a repository that triggers a workflow run. Fo
 
 ```
 on:
-  pull_request: #<-- This is the event that's going to trigger the next set of job/s. So only when there's a PR (Pull Request) is when this workflow will begin to start the job/s
+  pull_request: #<-- This is the event that's going to trigger the next set of job/s.
+                #So only when there's a PR (Pull Request) is when this workflow will
+                #begin to start the job/s
 ```
 
 ## Job/s	
@@ -63,15 +65,16 @@ jobs:
            #do a bunch of actions
       - name: Check out repo #<-- The name of the first step in
                              #MyFirstHelloWorldJob
-        uses: actions/checkout@v2 #<-- It's using GitHub's
-                                  #maintained/verified repo
-                                  #(https://github.com/actions/checkout,using tagged label v2)
-                                  #to checkout your code (a Pull Request in this examaple)
+        uses: actions/checkout@v2 #<-- It's using GitHub's maintained/verified repo
+                                  #(https://github.com/actions/checkout)
+                                  #to checkout your code (a Pull Request)
       - name: Echo Hello World #<-- The name of the second step in
                                #MyFirstHelloWorldJob
-        run: echo "Hello World" #<-- runs the Linux command echo with an input of "Hello World"
+        run: echo "Hello World" #<-- runs the Linux command echo with an input of
+                                #"Hello World"
  
-NOTE: in order to use echo command (Linux command) defined by run:, there is a dependency on which runner this job is running on which we'll cover next
+NOTE: in order to use echo command (Linux command) defined by run:, there is a
+      dependency on which runner this job is running on which we'll cover next
 ```
 
 ## Runner/s	
