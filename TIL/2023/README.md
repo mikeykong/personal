@@ -1,4 +1,4 @@
-# 2024-Aug-4: TIL - GitHub Actions
+# 2023-Aug-4: TIL - GitHub Actions
 
 This was lots of watching, reading, trying, failing, and doing it all over again! Very rewarding when you get those little green checks! :)
 
