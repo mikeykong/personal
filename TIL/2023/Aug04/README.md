@@ -116,6 +116,6 @@ jobs:
       - name: Echo Hello World
         run: echo "Hello World"
 ```
-## What it looks in GitHub Actions UI
+## What it looks like in the GitHub Actions UI
 
 ![my-first-hello-world.png](./my-first-hello-world.png)
